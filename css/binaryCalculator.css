@@ -1,6 +1,6 @@
 body {
     width: 100%;
-    max-width: 720px;
+    max-width: 480px;
     margin: auto;
     text-align: center;
 }
@@ -12,15 +12,15 @@ body {
 .indicator {
     background-color: lightgray;
     border: solid 2px black; 
-    height: 48px;
-    font-size: 20px;
+    height: 64px;
+    font-size: 30px;
     overflow-wrap: break-word;
     text-align: left;
 }
 
 .pad .button {
     width: 25%;
-    height: 36px;
+    height: 64px;
     font-size: 18px; 
     margin: 0;
     float: left;    
