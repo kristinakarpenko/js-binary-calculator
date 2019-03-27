@@ -1,5 +1,5 @@
 # Binary Calculator on JavaScript
 
-That was a challenge from [HackerRank.com](https://www.hackerrank.com/challenges/js10-binary-calculator) web-site. The "ugly design" is a part of the challenge too :)
+Forked from [KARPOLAN's](https://github.com/karpolan) repository <a href="https://github.com/karpolan/js-binary-calculator" target="_blank">js-binary-calculator</a>
 
-[On-line Demo](https://karpolan.com/demos/js-binary-calculator/)
+[On-line Demo](https://kristuha.com/demos/js-binary-calculator/)
